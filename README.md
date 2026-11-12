@@ -105,6 +105,7 @@ Một bộ sưu tập các tài nguyên, công cụ và tài liệu học tập 
 - [Postman](https://www.postman.com/) - API testing tool
 - [Insomnia](https://insomnia.rest/) - REST & GraphQL client
 - [Thunder Client](https://www.thunderclient.com/) - VS Code extension cho API
+- [API Việt Nam](https://byliem.com/api-viet-nam) - Danh mục API công khai có dữ liệu Việt Nam (hành chính, ngân hàng, VietQR, chứng khoán, vận chuyển), kiểm tra định kỳ để biết API nào còn chạy
 
 ### Thiết kế
 
